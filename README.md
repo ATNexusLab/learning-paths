@@ -1,2 +1,5 @@
 # learning-paths
-Repositório focado em documentar nossos grupos de estudo e trilhas de capacitação.
+Este repositório documenta roteiros de aprendizado práticos. 
+
+Roteiros detalhados por trilha:
+- Git & GitHub (base): [tracks/git/README.md](tracks/git/README.md)
