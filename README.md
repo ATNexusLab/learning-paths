@@ -30,5 +30,4 @@ Como seguir a trilha (expectativas para membros)
 - **Revisão por pares:** peça um colega para revisar seu repositório e deixar
   comentários na Issue ou abrir uma PR com sugestões.
 - **Política de participação:** siga as instruções de cada arquivo de nível
-  (`nivel-1-sobrevivente.md`, `nivel-2-colaborador.md`, `nivel-3-facilitador.md`)
-  e respeite as práticas de branch/PR ao contribuir no Website Institucional.
+  e respeite as práticas de branch/PR ao contribuir em projetos reais.
